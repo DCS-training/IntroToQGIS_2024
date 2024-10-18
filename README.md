@@ -1,4 +1,4 @@
-# Introduction to Spatial Data (2024) in QGIS 
+# Introduction to Geospatial Data and QGIS (2024) 
 
 This repository hosts materials related to a workshop created for CDCS by **Ki Tong**. 
 The workshop serves as an introductory guide to working with spatial data.
