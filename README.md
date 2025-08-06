@@ -14,8 +14,8 @@ Below, you will find a repository that includes datasets, workshop practice file
 This repository includes a collection of datasets and guidelines for conducting practical exercises, all contained in a zipped folder titled 'Introduction to Spatial Data and GIS.' 
 The workshop comprises two sessions. Therefore, the folders within the unzipped folder are arranged in two sessions.
 
-To download materials for session 1, please click [here](https://uoe-my.sharepoint.com/:u:/g/personal/s1437997_ed_ac_uk/EandLZ21vq9Pnz8l6Mo19jgBouAOMor0jXzZYqr6_YwKQA?e=nhToug) 
-To download materials for session 2, please click [here](https://uoe-my.sharepoint.com/:u:/g/personal/s1437997_ed_ac_uk/EVCk9xMX7h5KhptD9htZ9g0By05qMVvdXNBIzPruNgmPBw?e=8uTacs) 
+All material for session 1, is in the **Intro_to_GIS_Part1** folder
+All material for session 2, is in the **Intro_to_GIS_Part2** folder
 
 Download the datasets and follow the workbook instructions to complete the practical exercises. 
 You can also use the slides and the resource list to gather further knowledge on the topic. 
